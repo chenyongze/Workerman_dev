@@ -1,0 +1,17 @@
+{
+    "name": "chenyongze/workman_dev",
+    "description": "websocket system",
+    "keywords": ["chenyongze", "workman"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chenyongze",
+            "email": "sapphire.php@gmail.com"
+        }
+    ],
+    "require": {
+        "workerman/workerman": "^3.4"
+    }
+
+}
