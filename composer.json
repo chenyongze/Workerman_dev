@@ -1,7 +1,7 @@
 {
-    "name": "chenyongze/workman_dev",
+    "name": "chenyongze/Workerman_dev",
     "description": "websocket system",
-    "keywords": ["chenyongze", "workman"],
+    "keywords": ["chenyongze", "Workerman"],
     "type": "yii2-extension",
     "license": "MIT",
     "authors": [
