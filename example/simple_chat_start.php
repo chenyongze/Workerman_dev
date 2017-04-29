@@ -1,4 +1,10 @@
 <?php
+/**
+ * Created by sapphire.php@gmail.com
+ * User: yongze
+ * Date: 2017/4/29
+ * Time: 下午9:11
+ */
 use Workerman\Worker;
 require_once __DIR__ . '/../vendor/autoload.php';
 

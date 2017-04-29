@@ -5,7 +5,7 @@
  * Date: 2017/4/29
  * Time: 下午9:10
  */
-require_once __DIR__ . '/vendor/autoload.php';
+require_once __DIR__ . '../vendor/autoload.php';
 use Workerman\Worker;
 
 // #### create socket and listen 1234 port ####
