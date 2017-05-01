@@ -2,7 +2,7 @@
     "name": "chenyongze/workerman_dev",
     "description": "websocket system",
     "keywords": ["chenyongze", "workerman"],
-    "type": "yii2-extension",
+    "type": "library",
     "version": "1.0.3",
     "license": "MIT",
     "authors": [
